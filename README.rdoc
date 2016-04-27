@@ -1,0 +1,1 @@
+The example app for tracking financial data
